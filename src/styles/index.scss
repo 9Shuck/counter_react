@@ -11,3 +11,70 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.container {
+margin-top: 22rem;;
+}
+.timer {
+   margin-top: 0.8rem;
+}
+
+.colB {
+    background-color: white;
+    color: black;
+    opacity: 0.7;
+    border-radius: 0.5em;
+    border: grey solid 1px;
+    text-align: center;
+    font-size: 40px;
+    justify-content: center;
+    margin-right: 0.5rem;
+
+}
+.button {
+    background-color: white;
+    color: black;
+    border-radius: 0.5em;
+    border: grey solid 1px;
+    text-align: center;
+    font-size: 40px;
+    justify-content: center;
+    margin-top: 0.7rem;
+
+}
+.button:hover {
+    background-color:black;
+    color: white;
+    border-radius: 0.5em;
+    border: grey solid 1px;
+    text-align: center;
+    font-size: 40px;
+    justify-content: center;
+    margin-top: 0.7rem;
+}
+.colButton {
+
+    opacity: 0.7;
+    color: white;
+    border-radius: 0.5em;
+    border: grey solid 1px;
+    text-align: center;
+    font-size: 40px;
+    justify-content: center;
+    margin-right: 0.5rem;
+}
+
+.row{
+    height: 5rem;
+    width: 50rem;
+}
+
+body {
+
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+.button {
+    
+}
